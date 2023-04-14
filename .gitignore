@@ -1,0 +1,17 @@
+/.mypy_cache
+/.venv
+/aula_admin_em_portugues.py
+/aula_cadastro_usuarios.py
+/aula_campo_pesquisa.py
+/aula_condicionais.py
+/aula_formularios_models.py
+/aula_inicio_sessao.py
+/aula_levantando_erros_404.py
+/aula_login_logout_dashboard.py
+/aula_mensagens_com_django.py
+/aula_ordenando_filtrando_valores.py
+/aula_paginacao.py
+/aula_pillow.py
+/aula_sistema_login.py
+/aula_tags_django.py
+/aula_verificacao_usuarios_logados.py
